@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Prof. C A Aravind">
+    <title>Scholarship Application Response</title>
+    <style>
+        .sender-column {
+            text-align: right;
+        }
+        .date {
+            text-align: right;
+            margin-top: 0;
+        }
+    </style>
+</head>
+<body>
+    <address>
+        Mr. Johnny Johnson<br>
+        456 Mountain Road<br>
+        Denver, CO 80203<br>
+        USA
+    </address>
+    <p class="date">
+        <time datetime="2024-08-03">3 August 2024</time>
+    </p>
+    <address class="sender-column">
+        <strong>Prof. C A Aravind</strong><br>
+        Scholarship Committee<br>
+        Green Valley University<br>
+        Springfield, IL 62701,<br>
+        USA<br>
+        <strong>Tel:</strong> 123-987-6543<br>
+        <strong>Email:</strong> <a href="mailto:scholarships@greenvalley.edu">scholarships@greenvalley.edu</a>
+    </address>
+    <h1>Re: Scholarship Application for Environmental Science Program</h1>
+    <p>Dear Johnny,</p>
+    <p>Thank you for your application for the Environmental Science Scholarship at Green Valley University. We are pleased to inform you that you have been shortlisted for the next stage of the selection process. Below, I will provide more details and answer your questions.</p>
+    <h2>Interview Dates</h2>
+    <p>We would like to invite you for an interview with the scholarship committee. The available dates are:</p>
+    <ul>
+        <li><time datetime="2024-08-15">15 August 2024</time></li>
+        <li><time datetime="2024-08-22">22 August 2024</time></li>
+        <li><time datetime="2024-08-29">29 August 2024</time></li>
+    </ul>
+    <p>Please let us know your preferred date.</p>
+    <p>More information about the interview process can be found on our <a href="http://greenvalley.edu/scholarships" title="Scholarship Interviews">website</a>.</p>
+    <h2>Scholarship Benefits</h2>
+    <p>The Environmental Science Scholarship offers the following benefits:</p>
+    <ul>
+        <li>Full tuition coverage for the duration of the program.</li>
+        <li>A monthly stipend for living expenses.</li>
+        <li>Opportunities for research and fieldwork.</li>
+        <li>Access to university resources and facilities.</li>
+    </ul>
+    <h2>Expectations and Requirements</h2>
+    <p>As a scholarship recipient, you will be expected to:</p>
+    <ul>
+        <li>Maintain a minimum GPA of 3.5.</li>
+        <li>Participate in departmental seminars and workshops.</li>
+        <li>Complete a research project under the guidance of a faculty advisor.</li>
+        <li>Contribute to the university's sustainability initiatives.</li>
+    </ul>
+    <p>We are excited about the possibility of you joining our program and contributing to our academic community.</p>
+    <p>Yours sincerely,</p>
+    <p><strong>Prof. C A Aravind</strong></p>
+    <p><cite>"Sustainability for Future Generations" - Green Valley University</cite></p>
+</body>
+</html>
